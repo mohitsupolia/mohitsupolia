@@ -1,4 +1,4 @@
-<img src="welcome.png" alt="welcome to my github profile">
+<img src="welcome.png" alt="welcome to my github profile"><hr>
 <br>
  <a href="https://twitter.com/mohitsupolia"><img align="right" src="https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25> </a>
  <a href="https://www.linkedin.com/in/mohit-supolia-8353a7243/"><img align ="right" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -26,10 +26,6 @@
 <a href="https://twitter.com/mohitsupolia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohitsupolia" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohit-supolia-8353a7243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitsupola" height="30" width="40" /></a>
 </p> -->
-
-
-
-
 
 
 
