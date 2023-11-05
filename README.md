@@ -31,7 +31,7 @@
 
 <h2 align="left">Skills:</h2>
 
-<a href="https://drive.google.com/drive/folders/1FRm--SocOiOpuZkk8bjxsq9kk6s_hxoM/view?usp=sharing"> <img src="Resume.jpg" align = "right" height="150px" width="150px"> </a>
+<a href="https://drive.google.com/drive/folders/1FRm--SocOiOpuZkk8bjxsq9kk6s_hxoM/view> <img src="resume.png" align = "right" height="150px" width="150px"> </a>
 
 <p align="left"> 
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></code>
