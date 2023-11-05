@@ -31,7 +31,7 @@
 
 <h2 align="left">Skills:</h2>
 
-<a href="file:///D:/Mohit%20Resume/RESUME_.pdf"> <img src="Resume.jpg" align = "right" height="150px" width="150px"> </a>
+<a href="https://drive.google.com/drive/folders/1FRm--SocOiOpuZkk8bjxsq9kk6s_hxoM"> <img src="Resume.jpg" align = "right" height="150px" width="150px"> </a>
 
 <p align="left"> 
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></code>
