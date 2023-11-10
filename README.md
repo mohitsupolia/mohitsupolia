@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning : **ReactJS**
 - 💬 Ask me about :  **Java SE, Java EE, SpringBoot, React, JavaScript, SQL**
 - 📫 How to reach me :  **supoliamohit8@gmail.com**
-- 🌟 I like to Sing a song, travelling and read books.
+- 🌟 I like to play a kabbadi, travelling and read books.
 - ⚡ Fun fact :  **I am funny 😂**
 
 
