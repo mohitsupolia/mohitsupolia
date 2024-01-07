@@ -1,13 +1,10 @@
 <img src="welcome.png" alt="welcome to my github profile"><hr>
-<br>
  <a href="https://twitter.com/mohitsupolia"><img align="right" src="https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25> </a>
  <a href="https://www.linkedin.com/in/mohitsupolia"><img align ="right" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-![logo](https://github.com/mohitsupolia/mohitsupolia/blob/main/Github%20Banner.png)
-<br>
+ <h1 align="center">Hi 👋, I'm Mohit Supolia</h1>
+<p>I'm a tech enthusiast with a passion for coding. I specialize in Java, Spring Boot, and React.js, weaving these technologies to bring ideas to life. I enjoy creating user-friendly web experiences and turning concepts into reality. It's not just a job for me – I really enjoy doing it, and I'm always excited to learn more about it.</p>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsupolia&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsupolia" /> </p> -->
-
-
 <h2>💭💭</h2>
 <img src = "work.gif" align="right" height="200px"/>
 
