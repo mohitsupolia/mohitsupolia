@@ -11,6 +11,7 @@
 <h2>💭💭</h2>
 <img src = "work.gif" align="right" height="200px"/>
 
+- 🚀 I'm currently working on backend development.
 - 🌱 I’m currently learning : **ReactJS**
 - 💬 Ask me about :  **Java SE, Java EE, SpringBoot, React, JavaScript, SQL**
 - 📫 How to reach me :  **supoliamohit8@gmail.com**
