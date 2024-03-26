@@ -9,8 +9,8 @@
 <img src = "work.gif" align="right" height="200px"/>
 
 - 🚀 I'm currently working on backend development.
-- 🌱 I’m currently learning : **ReactJS**
-- 💬 Ask me about :  **Java SE, Java EE, SpringBoot, React, JavaScript, SQL**
+- 🌱 I’m currently learning : **AI, ML and Data Science**
+- 💬 Ask me about :  **Java SE, Java EE, SpringBoot, ReactJS, JavaScript, SQL**
 - 📫 How to reach me :  **supoliamohit8@gmail.com**
 - 🌟 I like to play a kabbadi, travelling and read books.
 - ⚡ Fun fact :  **I am funny 😂**
